@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Chetan51423/Node-Course#readme",
   "dependencies": {
-    "url": "^0.11.3"
+    "express": "^4.18.3"
   }
 }
